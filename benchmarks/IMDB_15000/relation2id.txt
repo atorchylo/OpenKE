@@ -1,0 +1,15 @@
+14
+movie2genre	0
+movie2keyword	1
+movie2age_restriction	2
+movie2rating	3
+movie2creator	4
+movie2run_time	5
+movie2country	6
+movie2language	7
+movie2also_known_as	8
+movie2production_co	9
+movie2year	10
+movie2actor	11
+movie2character	12
+actor2character	13
